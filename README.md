@@ -1,5 +1,5 @@
 # 💫 About Me:
-CyberSecurity and Backend Developer<br>Learning CyberSecuirity and Backend Developer
+CyberSecurity and Backend Developer<br>Learning CyberSecurity and Backend Developer
 
 
 ## 🌐 Socials:
